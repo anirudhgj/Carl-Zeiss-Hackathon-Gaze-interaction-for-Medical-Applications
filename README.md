@@ -5,7 +5,7 @@ or team-7
 
 Description
 
-This was dine in Carl Zeiss Hackathon.
+This was done in Carl Zeiss Hackathon.
 A novel approach to detect certain medical conditions like ADHT ,AUTISM, GLUCOMA.
 
 We used concepts of deep learning, Computer Vision, Machine Learning, Object detection and Tracking to come up with a potential application which be extensively used in medical diagnosis of human eye.
